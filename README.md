@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Everyone!
+
+Joshua here, I love coding so much the same way I love myself. Between the lines, I am a coder.
+
